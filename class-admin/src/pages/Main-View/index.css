@@ -1,0 +1,78 @@
+/* 内容主体部分 */
+.main{
+  width: 1173px;
+  padding-left: 35px;
+}
+.main .main_head{
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #e6e7e7;
+}
+.main .main_head p{
+  font-size: 16px;
+  line-height: 50px;
+}
+.main .main_head .create_btn{
+  height: 35px;
+  color: #fff;
+  font-size: 14px;
+  outline: none;
+}
+
+/* main下面的content 头部*/
+.main_content_head{
+  display: flex;
+  height: 97px;
+  align-items: center;
+  justify-content: space-between;
+}
+.main_content_head .title{
+  font-size: 17px;
+  display: inline-block;
+  font-weight: bold;
+}
+.main_content_head .search{
+  display: flex;
+  align-items: center;
+}
+.main_content_head .search_ipt{
+  height: 35px;
+  width: 250px;
+  border: 1px solid #3ba8f0;
+  outline: none;
+}
+.main_content_head .search_btn{
+  width: 50px;
+  height: 35px;
+  background-color: #3ba8f0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main_content_head .search_icon{
+  color: #fff;
+  font-size: 20px;
+}
+
+/* main下面的content 的内容主体部分 */
+.main_content_body{
+  border: 1px solid #ddd;
+}
+.main_content_body .main_content_body_head{
+  display: flex;
+  background-color: #f5f5f5;
+  border-bottom: 1px solid #ddd;
+}
+.main_content_body .main_content_body_head .nav{
+  height: 35px;
+  width: 180px;
+  text-align: center;
+  line-height: 35px;
+  font-size: 14px;
+  text-decoration: none;
+  color: black;
+}
+.active{
+  color: #3ba8f0 !important;
+}
+

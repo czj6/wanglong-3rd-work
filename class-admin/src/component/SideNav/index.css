@@ -1,0 +1,42 @@
+.side{
+  width: 245px;
+  border-right: 1px solid #ddd;
+}
+.side .back_arrow{
+  color: #969696;
+  font-size: 30px;
+  vertical-align: middle;
+}
+.side .side_head{
+  display: flex;
+  justify-content: space-between;
+  padding-right: 17px;
+}
+.side .more_icon{
+  font-size: 23px;
+  vertical-align: middle;
+}
+.side .side_head_text{
+  font-size: 20px;
+}
+.side .side_items{
+  display: flex;
+  flex-direction: column;
+  margin-top: 34px;
+
+}
+.side .item{
+  height: 60px;
+  line-height: 60px;
+  font-size: 16px;
+  padding-left: 26px;
+}
+.side .item:hover{
+  border-left: 2px solid #3ba8f0;
+  background-color: #f4f5f5;
+  color: #3ba8f0;
+  padding-left: 24px;
+}
+.side .item span{
+  margin-left: 20px;
+}

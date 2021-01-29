@@ -1,0 +1,27 @@
+/* 内容主体部分 */
+.main{
+  width: 1173px;
+  padding-left: 35px;
+}
+
+.main_content p{
+  color: #949494;
+  font-size: 14px;
+  margin: 21px 0;
+}
+
+/* main 头部 */
+.main .main_head{
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #e6e7e7;
+}
+.main .main_head p{
+  font-size: 16px;
+  line-height: 50px;
+}
+.main .main_head .create_btn{
+  height: 35px;
+  color: #fff;
+  font-size: 14px;
+}

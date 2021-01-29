@@ -1,0 +1,49 @@
+.card{
+  display: flex;
+  border: 1px solid #dddddd;
+  width: 340px;
+  height: 160px;
+  align-items: center;
+  position: relative;
+  margin-right: 20px;
+}
+.card .card_img{
+  border: 3px solid #eeeeee;
+  width: 105px;
+  height: 105px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 34px;
+  margin-right: 20px;
+}
+.card .introduction p{
+  margin: 0;
+  margin-top: 10px;
+}
+.card .senior{
+  font-size: 16px;
+  color: #333;
+}
+.card .teacher span{
+  color: black;
+  font-weight: bold;
+}
+.card .class span{
+  color: black;
+}
+.card .student span{
+  color: black;
+}
+
+/* 行政班标签label */
+.card .label{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  color: #fff;
+  font-size: 12px;
+  background-color: #3ba8f0;
+  padding: 4px 10px;
+}

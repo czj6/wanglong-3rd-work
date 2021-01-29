@@ -1,0 +1,61 @@
+p{
+  margin: 0;
+}
+.container{
+  min-width: 800px;
+}
+.head{
+  height: 58px;
+  line-height: 58px;
+  display: flex;
+  width: 1420px;
+  margin: 0 auto;
+}
+.head .logo_container{
+  margin-right: 24px;
+}
+.head .logo{
+  width: 50px;
+  vertical-align: middle;
+}
+.head .logo_name1{
+  font-size: 16px;
+  color: #21944b;
+}
+.head .logo_name2{
+  border: 1px solid transparent;
+  border-radius: 20px;
+  padding: 3px 5px;
+  font-size: 12px;
+  background-color: #21944b;
+  color: #fff;
+}
+.head .nav{
+  display: flex;
+  font-size: 18px;
+}
+.head .nav span{
+  margin: 0 24px;
+}
+.head .new{
+  width: 60px;
+  margin-left: 35px;
+  vertical-align: middle;
+}
+.head .search{
+  margin-left: 50px;
+}
+.head .search_icon{
+  color: #3ba8f0;
+  font-size: 20px;
+}
+.head .user_icon{
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  display: inline-block;
+  text-align: center;
+  margin-left: 80px;
+  vertical-align: middle;
+  overflow: hidden;
+}

@@ -1,0 +1,149 @@
+{
+  "class": [
+    {
+      "id": "1",
+      "school": "rudi",
+      "stage": "高中",
+      "grade": "一年级",
+      "className": "小二班",
+      "classTeacher": "田小雨",
+      "type": "1",
+      "authority": "1",
+      "teachers": [
+        {
+          "id": "a",
+          "name": "柳云",
+          "picture": "/public/img/photo.png",
+          "tags": [
+            "英语老师"
+          ]
+        }
+      ],
+      "students": [
+        {
+          "id": "a",
+          "picture": "/public/img/photo.png",
+          "name": "小明"
+        }
+      ],
+      "parents": [
+        {
+          "id": "a",
+          "picture": "/public/img/photo.png",
+          "name": "大明"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "school": "魔法学院",
+      "stage": "高中",
+      "grade": "一年级",
+      "className": "小二班",
+      "classTeacher": "史莱姆",
+      "type": "2",
+      "authority": "1",
+      "teachers": [
+        {
+          "id": "a",
+          "name": "柳云",
+          "picture": "/public/img/photo.png",
+          "tags": [
+            "英语老师"
+          ]
+        }
+      ],
+      "students": [
+        {
+          "id": "a",
+          "picture": "/public/img/photo.png",
+          "name": "小明"
+        }
+      ],
+      "parents": [
+        {
+          "id": "a",
+          "picture": "/public/img/photo.png",
+          "name": "大明"
+        }
+      ]
+    },
+    {
+      "school": "史莱姆",
+      "stage": "高中",
+      "grade": "二年级",
+      "className": "静",
+      "type": "2",
+      "authority": "1",
+      "id": "nxjO48",
+      "classTeacher": "任娜",
+      "teachers": [
+        {
+          "name": "傅霞",
+          "id": "BTpv2R",
+          "picture": "/public/img/photo.png",
+          "tags": "数学老师"
+        }
+      ],
+      "students": [
+        {
+          "name": "陆娟",
+          "id": "zNTzYc",
+          "picture": "/public/img/photo.png"
+        },
+        {
+          "name": "林明",
+          "id": "E4qe1P",
+          "picture": "/public/img/photo.png"
+        },
+        {
+          "name": "贺磊",
+          "id": "hQxlN5",
+          "picture": "/public/img/photo.png"
+        },
+        {
+          "name": "郑秀英",
+          "id": "h7fzZc",
+          "picture": "/public/img/photo.png"
+        },
+        {
+          "name": "吕秀英",
+          "id": "cF4mxu",
+          "picture": "/public/img/photo.png"
+        }
+      ],
+      "parents": [
+        {
+          "name": "阎明",
+          "id": "c6DI-V",
+          "picture": "/public/img/photo.png"
+        },
+        {
+          "name": "金静",
+          "id": "lPfPR3",
+          "picture": "/public/img/photo.png"
+        },
+        {
+          "name": "万霞",
+          "id": "HBzOUf",
+          "picture": "/public/img/photo.png"
+        },
+        {
+          "name": "孙秀英",
+          "id": "x_V5sX",
+          "picture": "/public/img/photo.png"
+        },
+        {
+          "name": "曹勇",
+          "id": "OCj56X",
+          "picture": "/public/img/photo.png"
+        },
+        {
+          "name": "宋明",
+          "id": "wXeHCQ",
+          "picture": "/public/img/photo.png"
+        }
+      ]
+    }
+  ]
+}
