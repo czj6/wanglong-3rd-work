@@ -6,6 +6,7 @@
   flex-direction: column;
   justify-content: space-around;
   margin: 0 9px 22px 10px;
+  cursor: pointer;
 }
 .main_content_body_list .card .photo{
   height: 115px;

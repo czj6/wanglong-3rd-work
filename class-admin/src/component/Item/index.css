@@ -6,6 +6,7 @@
   align-items: center;
   position: relative;
   margin-right: 20px;
+  cursor: pointer;
 }
 .card .card_img{
   border: 3px solid #eeeeee;

@@ -58,7 +58,7 @@ export default class MainView extends Component {
             <div></div>
             <p className="title">折纸兴趣班</p>
             <div className="search">
-              <input type="text" className="search_ipt" ref={this.myIpt}/>
+              <input type="text" placeholder="请输入" className="search_ipt" ref={this.myIpt}/>
               <div className="search_btn" onClick={this.search}>
                 <i className="fa fa-search search_icon" aria-hidden="true"></i>  
               </div>
